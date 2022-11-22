@@ -44,6 +44,7 @@ npx crcf -f  --notest --typescript LoginPage RegisterPage ReportPage StockPage S
 // src/components/layouts
 npx crcf -f  --notest --typescript Header Menu AuthorizedPage
 
+
 // src/components/fragments
 npx crcf -f  --notest --typescript StockCard Payment
 
