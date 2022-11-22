@@ -153,7 +153,7 @@ export default function App() {
       </Drawer>
       <Main open={open}>
         <DrawerHeader />
-        <Header title="MEA" />
+        <Header title="MEA" onClick={() => alert("WhatUp?")} />
         <Typography paragraph>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus
