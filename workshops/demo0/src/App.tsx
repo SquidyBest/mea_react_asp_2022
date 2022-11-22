@@ -24,7 +24,7 @@ export default function App({}: Props) {
 
       <button
         onClick={() => {
-          setTmp2(tmp2 + 1);
+          setTmp2(tmp2+1)
         }}
       >
         Click2
