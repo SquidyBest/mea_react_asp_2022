@@ -9,3 +9,14 @@
 # tools
 
 - https://chrome.google.com/webstore/detail/octotree-github-code-tree/bkhaagjahfmjljalopjnoealnfndnagc
+
+```
+# Install
+1. nodejs lts
+2. install yarn with [sudo] npm i -g yarn
+3. yarn add global create-react-app
+4. vscode
+5. vscode extentions
+6. mongodb
+7. mongoshell
+```
