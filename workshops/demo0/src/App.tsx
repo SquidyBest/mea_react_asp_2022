@@ -18,7 +18,6 @@ import ListItemIcon from "@mui/material/ListItemIcon";
 import ListItemText from "@mui/material/ListItemText";
 import InboxIcon from "@mui/icons-material/MoveToInbox";
 import MailIcon from "@mui/icons-material/Mail";
-import Header from "./components/layouts/Header";
 
 const drawerWidth = 240;
 
@@ -153,7 +152,7 @@ export default function App() {
       </Drawer>
       <Main open={open}>
         <DrawerHeader />
-        <Header title="MEA" onClick={() => alert("WhatUp?")} />
+
         <Typography paragraph>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus
